@@ -1,0 +1,3 @@
+function startGame() {
+  alert("Welcome to Labyrinth of Elements! Collect elements and escape the maze!");
+}
